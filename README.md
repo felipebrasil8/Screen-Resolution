@@ -5,7 +5,7 @@ No mundo de hoje, há uma infinidade de dispositivos para as pessoas escolherem 
 ## Table of Contents
 
 - [Viewports](#viewports)
--- [Measures](#measures)
+ -- [Measures](#measures)
 - [References](#references)
 - [Support](#support)
 - [Contributing](#contributing)
@@ -70,7 +70,7 @@ Google Chrome `Device toolbar` measurements (Ctrl+Shift+M)
 | Laptop L | 1440 |
 | 4K | 2560 |
 
-Other measures
+**Other measures**
 
 | Device | Viewport (px) |
 | ------ | :-----: |
