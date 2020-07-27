@@ -69,13 +69,13 @@ Google Chrome `Device toolbar` measurements (Ctrl+Shift+M)
 
 Other measures
 
-|    Device    | Viewport(px) |
-|-----------------------------|
-| iPhone 5/SE  |      320     |
-| iPhone X     |      375     |
-| iPhone 11    |      414     |
-| 13" Notebook |     1280     |
-| 15" Notebook |     1366     |
+Device | Viewport(px) 
+------ | :-----:
+iPhone 5/SE  | 320 
+iPhone X     | 375 
+iPhone 11    | 414
+13" Notebook | 1280 
+15" Notebook | 1366
 
 ### Example of CSS Media Queries
 
