@@ -5,6 +5,7 @@ No mundo de hoje, há uma infinidade de dispositivos para as pessoas escolherem 
 ## Table of Contents
 
 - [Viewports](#viewports)
+-- [Measures](#measures)
 - [References](#references)
 - [Support](#support)
 - [Contributing](#contributing)
@@ -22,11 +23,11 @@ As dimensões do dispositivo, também conhecidas como resolução, são baseadas
 
 ### Measures to be tested
 
-0 ~ 575px (sem media querie)
-576 ~ 767px (sm) [@media (max-width: 768px)]
-768 ~ 991px (md) [@media (max-width: 992px)]
-992 ~ 1199px (lg) [@media (max-width: 1200px)]
-≥1200px (xl) [@media (min-width: 1201px)]
+`0 ~ 575px` (sem media querie)<br>
+`576 ~ 767px (sm)` [@media (max-width: 768px)]<br>
+`768 ~ 991px (md)` [@media (max-width: 992px)]<br>
+`992 ~ 1199px (lg)` [@media (max-width: 1200px)]<br>
+`≥1200px (xl)` [@media (min-width: 1201px)]<br>
 
 ```css
 /* 0 ~ 575px */
@@ -59,23 +60,25 @@ As dimensões do dispositivo, também conhecidas como resolução, são baseadas
 
 Google Chrome `Device toolbar` measurements (Ctrl+Shift+M)
 
-`Mobile S`    320
-`Mobile M`    375
-`Mobile L`    425
-`Tablet`      768
-`Laptop`      1024
-`Laptop L`    1440
-`4K`          2560
+| Name | Size |
+| :----: | :----: |
+| Mobile S | 320 |
+| Mobile M | 375 |
+| Mobile L | 425 |
+| Tablet | 768 |
+| Laptop | 1024 |
+| Laptop L | 1440 |
+| 4K | 2560 |
 
 Other measures
 
-Device | Viewport(px) 
------- | :-----:
-iPhone 5/SE  | 320 
-iPhone X     | 375 
-iPhone 11    | 414
-13" Notebook | 1280 
-15" Notebook | 1366
+| Device | Viewport (px) |
+| ------ | :-----: |
+| iPhone 5/SE  | 320 |
+| iPhone X     | 375 | 
+| iPhone 11    | 414 |
+| 13" Notebook | 1280 |
+| 15" Notebook | 1366 |
 
 ### Example of CSS Media Queries
 
