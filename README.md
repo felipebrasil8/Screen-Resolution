@@ -5,7 +5,6 @@ No mundo de hoje, há uma infinidade de dispositivos para as pessoas escolherem 
 ## Table of Contents
 
 - [Viewports](#viewports)
- -- [Measures](#measures)
 - [References](#references)
 - [Support](#support)
 - [Contributing](#contributing)
